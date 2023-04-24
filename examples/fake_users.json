@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "given_name": "Kevin",
+            "family_name": "Chen",
+            "email": "kevin.chen@example.com"
+        },
+        {
+            "given_name": "Sandy",
+            "family_name": "Chen",
+            "email": "sandy.chen@example.com"
+        }
+    ]
+}
