@@ -49,17 +49,11 @@ Use the below GitHub repository to develop JS/TypeScript projects.
     Assuming you meant MongoDB Compass, here are the steps to create a database called "nodejs_proj" and a collection called "users" using MongoDB Compass:
 
     1. Open MongoDB Compass.
-
     2. In the "New Connection" dialog box, enter the connection details for your MongoDB server and click "Connect."
-
     3. Once you are connected to the server, click on the "Create Database" button in the left-hand navigation menu.
-
     4. In the "Create Database" dialog box, enter "nodejs_proj" as the name for your new database and click "Create."
-
     5. Once your new database has been created, click on its name in the left-hand navigation menu to open it.
-
     6. To create a new collection, click on the "Create Collection" button.
-
     7. In the "Create Collection" dialog box, enter "users" as the name for your new collection and click "Create."
 
 
